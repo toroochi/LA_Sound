@@ -13,7 +13,6 @@
 		B486AA5C28AB5D9C000BB7D1 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = B486AA5A28AB5D9C000BB7D1 /* Main.storyboard */; };
 		B486AA5E28AB5D9F000BB7D1 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = B486AA5D28AB5D9F000BB7D1 /* Assets.xcassets */; };
 		B486AA6128AB5D9F000BB7D1 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = B486AA5F28AB5D9F000BB7D1 /* LaunchScreen.storyboard */; };
-		B486AA6928AB5DF6000BB7D1 /* drumImage.png in Resources */ = {isa = PBXBuildFile; fileRef = B486AA6828AB5DF6000BB7D1 /* drumImage.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -25,7 +24,6 @@
 		B486AA5D28AB5D9F000BB7D1 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		B486AA6028AB5D9F000BB7D1 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		B486AA6228AB5D9F000BB7D1 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		B486AA6828AB5DF6000BB7D1 /* drumImage.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = drumImage.png; path = ../../../Downloads/lifeistech/sound/drumImage.png; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -63,7 +61,6 @@
 				B486AA5828AB5D9C000BB7D1 /* ViewController.swift */,
 				B486AA5A28AB5D9C000BB7D1 /* Main.storyboard */,
 				B486AA5D28AB5D9F000BB7D1 /* Assets.xcassets */,
-				B486AA6828AB5DF6000BB7D1 /* drumImage.png */,
 				B486AA5F28AB5D9F000BB7D1 /* LaunchScreen.storyboard */,
 				B486AA6228AB5D9F000BB7D1 /* Info.plist */,
 			);
@@ -131,7 +128,6 @@
 				B486AA6128AB5D9F000BB7D1 /* LaunchScreen.storyboard in Resources */,
 				B486AA5E28AB5D9F000BB7D1 /* Assets.xcassets in Resources */,
 				B486AA5C28AB5D9C000BB7D1 /* Main.storyboard in Resources */,
-				B486AA6928AB5DF6000BB7D1 /* drumImage.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
